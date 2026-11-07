@@ -9,16 +9,17 @@ Em aula estudamos os diagramas de **Caso de Uso**, **Classe** e **Sequência**. 
 
 | # | Diagrama | Grupo | Situação |
 |---|---|---|---|
-| 1 | [Diagrama de Atividades](01-diagrama-de-atividades/) | Rêmulo, Eduardo, Yasmim e Renan | ⏳ pendente |
+| 1 | [Diagrama de Atividades](01-diagrama-de-atividades/) | Rêmulo, Eduardo, Yasmim e Renan | 🔄 fork criado, aguardando entrega |
 | 2 | [Diagrama de Estados (Máquina de Estados)](02-diagrama-de-estados/) | Thomas, Luiz, Bruno e Bruno | ⏳ pendente |
 | 3 | [Diagrama de Componentes](03-diagrama-de-componentes/) | Jany, Jamili e Ruan | ⏳ pendente |
 | 4 | [Diagrama de Implantação (Deployment)](04-diagrama-de-implantacao/) | Pedro, Genesis, Kelvin e Erbeson | ⏳ pendente |
 | 5 | [Diagrama de Objetos](05-diagrama-de-objetos/) | Gabriel, Gabriel, Luiz e Adília | ⏳ pendente |
 | 6 | [Diagrama de Pacotes](06-diagrama-de-pacotes/) | João, Sidney, Jully e Gabriella | ⏳ pendente |
 | 7 | [Diagrama de Comunicação (Colaboração)](07-diagrama-de-comunicacao/) | Walter, Mayara e Luana | ⏳ pendente |
-| 8 | [Diagrama de Visão Geral de Interação](08-diagrama-de-visao-geral-de-interacao/) | Paulo, Augusto e Lucas | ⏳ pendente |
+| 8 | [Diagrama de Visão Geral de Interação](08-diagrama-de-visao-geral-de-interacao/) | Paulo, Augusto e Lucas | 📬 Pull Request aberto, aguardando merge (faltam commits de Paulo e Lucas) |
 
-> Clique no nome do diagrama para abrir a pasta do grupo.
+> Clique no nome do diagrama para abrir a pasta do grupo.  
+> Situação atualizada em 07/11/2026.
 
 ## O que cada grupo entrega
 
