@@ -16,10 +16,10 @@ Em aula estudamos os diagramas de **Caso de Uso**, **Classe** e **Sequência**. 
 | 5 | [Diagrama de Objetos](05-diagrama-de-objetos/) | Gabriel, Gabriel, Luiz e Adília | ⏳ pendente |
 | 6 | [Diagrama de Pacotes](06-diagrama-de-pacotes/) | João, Sidney, Jully e Gabriella | ⏳ pendente |
 | 7 | [Diagrama de Comunicação (Colaboração)](07-diagrama-de-comunicacao/) | Walter, Mayara e Luana | ⏳ pendente |
-| 8 | [Diagrama de Visão Geral de Interação](08-diagrama-de-visao-geral-de-interacao/) | Paulo, Augusto e Lucas | 📬 Pull Request aberto, aguardando merge (faltam commits de Paulo e Lucas) |
+| 8 | [Diagrama de Visão Geral de Interação](08-diagrama-de-visao-geral-de-interacao/) | Paulo, Augusto e Lucas | ✅ entregue com pendências (faltam commits de Paulo e Lucas, usuários do GitHub e ajuste dos nomes no texto) |
 
 > Clique no nome do diagrama para abrir a pasta do grupo.  
-> Situação atualizada em 07/11/2026.
+> Situação atualizada em 08/11/2026.
 
 ## O que cada grupo entrega
 
